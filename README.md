@@ -6,7 +6,6 @@ This repository contains code to reproduce experiments for, "Modulation Pattern 
 Data for this submission (RML2016.10a.tar.bz2) can be found at: https://www.deepsig.io/datasets. To ensure proper execution of the code, be sure the data is saved as 'RML2016.10a_dict.pkl' or 'RML2016.10a_dict.dat'.
 
 ## Code
-### Scripts
 
 The following code will execute an example experiment training and testing across all SNR levels: (be sure to include the path to the dataset)
 ```
