@@ -9,8 +9,8 @@ Data for this submission (RML2016.10a.tar.bz2) can be found at: https://www.deep
 
 The following code will execute an example experiment training and testing across all SNR levels: (be sure to include the path to the dataset)
 ```
-python3 run.py --data_directory /gv1/users/jkrzyston6-gtri/Datasets/ --train_SNRs -20 18 --test_SNRs -20 18 
+python3 run.py --data_directory path_to_data --train_SNRs -20 18 --test_SNRs -20 18 
 ```
-The code automatically save and stores results into folders in the local directory. 
+The code automatically saves and stores results into folders in the local directory. 
 
 *Disclaimer: All code is written in Keras
